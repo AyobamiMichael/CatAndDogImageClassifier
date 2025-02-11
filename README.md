@@ -8,6 +8,7 @@ Ensure your dataset is structured as follows:
 bash
 Copy
 Edit
+
 cats_and_dogs/
 ├── train/
 │   ├── cats/        # Training images of cats
@@ -23,9 +24,16 @@ cats_and_dogs/
 │   ├── all/         # Unlabeled test images
 │   │   ├── 1.jpg
 │   │   ├── 2.jpg
+
+
+
 Training set: 2000 images (1000 cats, 1000 dogs).
 Validation set: 1000 images (500 cats, 500 dogs).
 Test set: 50 unlabeled images.
+
+
+
+
 🛠 Installation & Setup
 1️⃣ Install Dependencies
 Ensure you have Python 3.7+ and install required libraries:
