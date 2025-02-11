@@ -18,9 +18,14 @@ cats_and_dogs/
 │   ├── dogs/        # Training images of dogs
 │   │   ├── dog.0.jpg
 │   │   ├── dog.1.jpg
+
+
 ├── validation/
 │   ├── cats/        # Validation images of cats
 │   ├── dogs/        # Validation images of dogs
+
+
+
 ├── test/
 │   ├── all/         # Unlabeled test images
 │   │   ├── 1.jpg
