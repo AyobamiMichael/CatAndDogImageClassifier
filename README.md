@@ -15,6 +15,11 @@ cats_and_dogs/
 │   ├── cats/        # Training images of cats
 │   │   ├── cat.0.jpg
 │   │   ├── cat.1.jpg
+
+
+
+
+
 │   ├── dogs/        # Training images of dogs
 │   │   ├── dog.0.jpg
 │   │   ├── dog.1.jpg
