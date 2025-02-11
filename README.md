@@ -45,7 +45,7 @@ pip install tensorflow matplotlib numpy pandas opencv-python
 
 ```bash
 git clone https://github.com/AyobamiMichael/CatAndDogImageClassifier.git
-cd cat-dog-classifier
+cd CatAndDogImageClassifier
 ```
 
 ---
